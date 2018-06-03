@@ -1,4 +1,4 @@
 # portafolio
 Portafolio de proyectos 
 
-Principales proyectos contenidos SPRING
+Principales proyectos contenidos SPRING, Angular
